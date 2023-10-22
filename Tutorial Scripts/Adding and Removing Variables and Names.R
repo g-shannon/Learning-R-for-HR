@@ -1,3 +1,5 @@
+# Hi there! github committ and push test
+
 # removing and adding variable names from a data frame object
 # set working drive directory
 
